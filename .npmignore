@@ -1,1 +1,6 @@
-/*.tgz
+*.tgz
+typescript
+typescript-node
+build-*.ts
+build.sh
+.vscode
